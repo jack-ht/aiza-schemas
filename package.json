@@ -1,6 +1,6 @@
 {
   "name": "@htsoft/aiza-schemas",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "Library for interfacing with Aiza game",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
